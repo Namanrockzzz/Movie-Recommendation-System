@@ -1,2 +1,3 @@
 # Project---Movie-Recommendation-System
 Enjoy watching movies similar to the ones you like the most...............
+- Just remember as close is the correlation to 1 ,you will like the movie more
